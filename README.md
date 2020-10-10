@@ -5,5 +5,6 @@ Jest to skrypt monitorujący temperaturę procesora oraz grafiki, wykorzystanie 
 
 Skrypt do wyświetlania stanu pobierania Transmission-Daemon oraz obecnie odtwarzana muzyka znajduje się w folderze "dodatki". Jedynie wystarczy wkleić kod do głównego skryptu.   
 
-Aby uruchomić skrypt, wystarczy wpisać w Terminalu:
-`watch -n 0.1 ./monitor.sh`
+Aby uruchomić skrypt, wystarczy wpisać w Terminalu:<br>
+`watch -n 0.1 ./monitor.sh`<br>
+lub wystartować skrypt `start.sh`
