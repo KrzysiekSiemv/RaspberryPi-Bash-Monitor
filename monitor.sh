@@ -63,15 +63,3 @@ echo "      SD:                 $usedSD/$totalSD, wolne $freeSD"
 echo "      HDD:                $mountedHDD: $usedHDD/$totalHDD, wolne $freeHDD"
 echo =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 echo "                          Skrypt napisany przez: Krzysztof 'KrzysiekSiemv' Smaga (https://github.com/KrzysiekSiemv)"
-echo
-echo
-echo
-echo
-echo
-echo
-echo
-echo
-echo
-echo
-echo
-echo
