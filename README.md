@@ -1,4 +1,4 @@
 # Raspberry Pi Bash Monitor
 Jest to skrypt monitorujący temperaturę procesora oraz grafiki, wykorzystanie RAM, karty pamięci oraz dodatkowego dysku, częstotliwość procesora. Dodatkowo pokazuje stan pobierania w Transmission-Daemon oraz jaką muzykę obecnie odtwarza w CUSM. 
 
-<img src="https://i.imgur.com/FzxvPbI.png" />
+<img src="https://i.imgur.com/9yykJPM.png" />
