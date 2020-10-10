@@ -7,4 +7,4 @@ Skrypt do wyświetlania stanu pobierania Transmission-Daemon oraz obecnie odtwar
 
 Aby uruchomić skrypt, wystarczy wpisać w Terminalu:<br><br>
 `$ watch -n 0.1 ./monitor.sh`<br><br>
-lub wystartować skrypt `start.sh`. Skrypt ten nie wymaga na chwilę obecną uprawnień root.
+lub jeśli chcesz wystartować skrypt w nowej sesji Screen użyj skryptu `start.sh`. Skrypt ten nie wymaga na chwilę obecną uprawnień root.
